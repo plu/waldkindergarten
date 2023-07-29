@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: plu/waldkindergarten
-  base_url: https://waldkindergarten.plunien.com
+  site_domain: adorable-halva-a03217.netlify.app
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 collections:
