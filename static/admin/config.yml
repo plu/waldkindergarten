@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: plu/waldkindergarten
   site_domain: adorable-halva-a03217.netlify.app
 publish_mode: editorial_workflow
